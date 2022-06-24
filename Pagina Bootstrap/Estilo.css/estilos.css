@@ -1,0 +1,102 @@
+body{
+    font-family:Chilanka,calibri; 
+    background-image: url('../Multimedia/fondo8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  .logotipo{
+    width:75px;
+  }
+  #quien{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+  }
+  #navegador{
+    background-color: rgba(156, 0, 0, 0.952);
+  }
+  #objetivo{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+  }
+  #servicios{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+  }
+  #colores{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+  }
+  #imagen{
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  #sec2{
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  #seccion2{
+    background-image: url('/Multimedia/fondo1.jfif');
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  #seccion3{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWA9MS3CNoz8R6rX9f28NG3LvTG4qQOiL1A&usqp=CAU');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    border-radius: 20px;
+  }
+  #seccion4{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnkkZ_IBe15ir1rNLIrsfmQlrKpAZXQ4diqw&usqp=CAU');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    border-radius: 20px;
+  }
+  #seccion5{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUJg654YEoRcq0d4gJOs6F0OOOerRxmBEOQ&usqp=CAU');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    border-radius: 20px;
+  }
+
+
+#facebook{
+  background-image: url('https://cdn-icons.flaticon.com/png/128/4494/premium/4494464.png?token=exp=1656025325~hmac=54e2ecbc4bf133dab1d03573a9a98906');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+}
+#instagram{
+  background-image: url('https://cdn-icons.flaticon.com/png/128/4494/premium/4494468.png?token=exp=1656025786~hmac=8424ae8fe9eda2713d26288405f3a059');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+}
+#whatsapp{
+  background-image: url('https://cdn-icons.flaticon.com/png/128/4494/premium/4494470.png?token=exp=1656025786~hmac=12c8ab6a8ddda3a6dbc8525647f65dcc');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+}
+#contactos{
+    height: 100px;
+}
+#foot{
+  background-color: darkred;
+}
+#copy{
+  background-color: rgb(0, 0, 0);
+}
+  #art3{
+
+    height: 50px;
+    display: inline-block;
+}
+#sec2{
+  width: 500px;
+}
